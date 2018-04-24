@@ -1,2 +1,2 @@
 # bikees
-Bicycles shop site study project)
+Bicycles shop site (study project)
